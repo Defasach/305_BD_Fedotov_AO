@@ -1,0 +1,4 @@
+SQLite version: 3.53.4
+
+Available output modes in sqlite3 utility:
+ascii, box, c, column, count, csv, html, insert, jatom, jobject, json, line, list, markdown, off, psql, qbox, quote, split, table, tabs, tcl, batch, tty
